@@ -9,7 +9,7 @@ body, html {
 html {
   background-image: url("sky.JPG");
   background-repeat: no-repeat;
-  background-position: left;
+  background-position: center;
   background-size: cover;
 }
 

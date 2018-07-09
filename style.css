@@ -1,0 +1,59 @@
+body, html {
+  font-family: Helvetica;
+  letter-spacing: 2.5px;
+  overflow: hidden;
+  text-align: center;
+  height: 100%;
+}
+
+html {
+  background-image: url("sky.jpg");
+  background-repeat: no-repeat;
+  background-position: left;
+  background-size: cover;
+}
+
+#footer {
+  height: 30%;
+  width: 100%;
+}
+
+#name {
+  color: #363636;
+  font-size: 130%;
+  padding-top: 5%;
+}
+
+#major {
+  color: #363636;
+}
+
+a {
+  text-decoration-style: double;
+  text-decoration-color: #363636;
+
+}
+
+#tweet {
+  color: #d4b2b2;
+}
+
+#insta {
+  color: #97bb93;
+}
+
+#git {
+  color: #d17173;
+}
+
+#linkedin {
+  color: #659dbd;
+}
+
+#contact {
+  color: #e5bc3c;
+}
+
+#resume {
+  color: #8b572c;
+}

@@ -1,9 +1,9 @@
 body {
   font-family: Helvetica;
-  letter-spacing: 2.5px;
+  letter-spacing: 3px;
   overflow: hidden;
   text-align: center;
-  background-image: url("img/sky.JPG");
+  background-image: url(sky.JPG);
   background-repeat: no-repeat;
   background-position: left;
   background-size: cover;

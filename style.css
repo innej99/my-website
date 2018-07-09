@@ -1,22 +1,17 @@
-body {
+body, html {
   font-family: Helvetica;
   letter-spacing: 3px;
   overflow: hidden;
   text-align: center;
-  background-image: url(sky.JPG);
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: cover;
   height: 100%;
 }
 
-/* html {
+html {
   background-image: url("sky.JPG");
   background-repeat: no-repeat;
   background-position: left;
   background-size: cover;
-  height: 100%;
-} */
+}
 
 #name {
   color: #363636;

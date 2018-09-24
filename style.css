@@ -1,16 +1,21 @@
 body, html {
   font-family: Helvetica;
-  letter-spacing: 3px;
+  letter-spacing: 2.5px;
   overflow: hidden;
   text-align: center;
   height: 100%;
 }
 
 html {
-  background-image: url("sky.JPG");
+  background-image: url("sky.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+#footer {
+  height: 30%;
+  width: 100%;
 }
 
 #name {
@@ -21,6 +26,12 @@ html {
 
 #major {
   color: #363636;
+}
+
+#interests {
+  color: #363636;
+  font-size: 75%;
+  padding-bottom: 20%;
 }
 
 a {

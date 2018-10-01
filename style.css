@@ -35,8 +35,8 @@ html {
 }
 
 a {
-  text-decoration-style: double;
-  text-decoration-color: #363636;
+  text-decoration-style: double !important;
+  text-decoration-color: #363636 !important;
 
 }
 
